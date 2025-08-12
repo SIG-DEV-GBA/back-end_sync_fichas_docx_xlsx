@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+date: Tue, 12 Aug 2025 11:09:29 GMT
+server: uvicorn
+content-disposition: attachment; filename="temporal.xlsx"
+x-excel-sheet: Fichas 2025
+x-excel-row: 10
+content-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+transfer-encoding: chunked
+
